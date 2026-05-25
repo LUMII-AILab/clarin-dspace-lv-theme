@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /repository/xmlui/JSON/discovery/search
+Disallow: /repository/xmlui/discover
+Allow: /repository/xmlui/
+
+#User-agent: Googlebot
+#Disallow: /
+
